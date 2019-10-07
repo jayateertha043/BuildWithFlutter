@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+NOTE:
+Change your Google Maps API key in the AndroidManifest.xml file then compile the app to run,
+Without API key the app can't run
 
 This project is a starting point for a Flutter application.
 
